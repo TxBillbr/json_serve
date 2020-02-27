@@ -1,14 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "profile": {
     "name": "typicode"
   },
-  "sensor": {
-    "garage_door": "closed"
+  "sensors": {
+    "garage_door": "closed",
+    "last_open": "Tuesday 2/27/2020 3:23pm"
   }
 }
